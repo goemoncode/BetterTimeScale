@@ -2,12 +2,13 @@
 
 ![Logo](logo.png)
 
-A mod for 7 Days to Die A21.
+A mod for 7 Days to Die V1.0.
 
 This mod provides the ability to change the time scale in game appropriately and easily.
 
 - The time scale can be changed up to 20x (2x in vanilla).
 - The decrease amount of duration time for buffs is also similarly scaled.
+- The increase/decrease of player stats (health/water) is also similarly scaled.
 
 ### Key Bindings
 
